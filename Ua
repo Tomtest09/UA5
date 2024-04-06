@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/343.0.0.37.117;FBPN/com.facebook.katana;FBLC/ar_EG;FBBV/329937443;FBCR/null;FBMF/Amlogic;FBBD/Amlogic;FBDV/Dragon Face;FBSV/8.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1280,height=720};FB_FW/1;FBRV/332189930;]
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-N9005 Build/NJH47F) [FBAN/Orca-Android;FBAV/230.0.0.12.117;FBPN/com.facebook.orca;FBLC/en_EG;FBBV/169378254;FBCR/Android;FBMF/samsung;FBBD/samsung;FBDV/SM-N9005;FBSV/7.1.2;FBCA/x86:armeabi-v7a;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;]
